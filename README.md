@@ -10,10 +10,10 @@ I enjoy Cyber Security, Devops Engineering and Automation
 I am a senior Pentester and Red Teamer, who is proficient in network, web, mobile, API, application and physical-sec testing.  Additionally I am experienced in Blue Team operations and forensics.
 
 
-
+<!---
 
 # 🛠 Welcome to my GitHub Repository
-
+--->
 <!--
 **mr-tomr/mr-tomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
