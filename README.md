@@ -1,4 +1,8 @@
-### Hi there 👋, I am Tom
+<div align="center">
+  <p style="font-size: 36px;">
+Hi there 👋, I am Tom
+</p>
+</div>
 
 <!--
 **mr-tomr/mr-tomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
