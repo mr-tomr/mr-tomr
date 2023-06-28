@@ -14,7 +14,10 @@ I am a senior Pentester and Red Teamer, who is proficient in network, web, mobil
 
 I created this GitHub repository with the intention of sharing resources with the community, while maintaining a clear separation from my private and profesional GitHub repositories. As those contain code which is not available for public release.
 
+<div>
 
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mr-tomr&show_icons=true)
+  
 <!---
 
 # 🛠 Welcome to my GitHub Repository
