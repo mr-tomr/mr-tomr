@@ -2,7 +2,7 @@
 
   # Hi 👋, I am Tom
 
-I enjoy Cyber Security, Devops Engineering and Automation
+I enjoy learning about Cyber Security, AI, Devops Engineering and Automation
 
 </div>
 
