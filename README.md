@@ -7,12 +7,12 @@ I enjoy learning about Cyber Security, AI, Devops Engineering and Automation
 </div>
 
 ## 🚀 About Me
-I am a senior Pentester and Red Teamer, who is proficient in network, web, mobile, API, application and physical-sec testing.  Additionally I am experienced in Blue Team operations and forensics.
+I am a senior Pentester and Red Teamer, who is proficient in network, web, mobile, API, application and physical-sec testing.  Additionally I am experienced in Blue Team operations and forensics.  
 
 
 </div>
 
-I created this GitHub repository with the intention of sharing resources with the community, while maintaining a clear separation from my private and profesional GitHub repositories. As those contain code which is not available for public release.
+I created this GitHub repository with the intention of sharing resources with the community, while maintaining a clear separation from my private and profesional GitHub repositories. 
 
 <div>
 <!---
