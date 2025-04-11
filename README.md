@@ -12,7 +12,7 @@ I am a senior Pentester and Red Teamer, who is proficient in network, web, mobil
 
 </div>
 
-I created this GitHub repository with the intention of sharing resources with the community, while maintaining a clear separation from my private and profesional GitHub repositories. 
+I created this GitHub repository with the intention of sharing resources with the community.
 
 <div>
 <!---
